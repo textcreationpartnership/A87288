@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Intelligence from the armie in a letter, dated from His Excellencie's quarters, near Reading, June 5, 1643 with a relation of Captain Wingates escape from Oxford, and the condition of the prisoners there, being about 70.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87288</idno>
+            <idno type="STC">Wing I261</idno>
+            <idno type="STC">Thomason E105_16</idno>
+            <idno type="STC">ESTC P1069</idno>
+            <idno type="EEBO-CITATION">50290043</idno>
+            <idno type="OCLC">ocm 50290043</idno>
+            <idno type="VID">155962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155962)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Intelligence from the armie in a letter, dated from His Excellencie's quarters, near Reading, June 5, 1643 with a relation of Captain Wingates escape from Oxford, and the condition of the prisoners there, being about 70.</title>
+               </titleStmt>
+               <extent>[2], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 8, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wingate, Edmund, 1596-1656.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:155962:1" rendition="simple:additions"/>
+INTELLIGENCE FROM THE ARMIE, In a LETTER, Dated from His Excellencie's QUARTERS, NEAR READING, June 5. 1643.</p>
+            <p>WITH A Relation of Captain <hi>Wingates</hi> eſcape from <hi>Oxford,</hi> and the condi<g ref="char:EOLhyphen"/>tion of the Priſoners there, be<g ref="char:EOLhyphen"/>ing about 70.</p>
+            <p>LONDON: Printed for <hi>Samuel Gellibrand,</hi> June 8. MDCXLIII.</p>
+            <pb facs="tcp:155962:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:155962:2"/>
+            <head>INTELLIGENCE from the Armie: With a Relation of Captain <hi>Win<g ref="char:EOLhyphen"/>gates</hi> eſcape from <hi>Oxford,</hi> and the condition <hi>of the Priſoners there, being about</hi> 70.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou wonder at my ſilence, and I at your wonder, howſoever you have been pleaſed to give my Letters the title of <hi>Mercu<g ref="char:EOLhyphen"/>rius,</hi> I can aſſure you the Wri<g ref="char:EOLhyphen"/>ters Brain and Pen are not ſo <hi>Mercuriall</hi> as to make ſome<g ref="char:EOLhyphen"/>thing of nothing, no not much of a little. <hi>Oxford Mercury</hi> is <hi>Ovids Mercury,</hi> that ſteals Oxen, and with a charmed Rod endeavours to beſlumber and ſtupifie the people, till their eyes, or what ſhould be as dear to them, become a prey for the ornament of <hi>Junoes</hi> Birds. But I am ſo profeſ<g ref="char:EOLhyphen"/>ſed a ſervant of Trueth and Seriouſneſſe, that I al<g ref="char:EOLhyphen"/>moſt
+<pb n="2" facs="tcp:155962:3"/>
+repent me the mention of a <hi>Fiction,</hi> though ve<g ref="char:EOLhyphen"/>ry well recompenſed with the reality of the <hi>Morall.</hi>
+            </p>
+            <p>But ſince you preſſe me to write ſomething, to give you evidence that I can deny my ſelf ſooner then my friend, I have forced my Pen to this Let<g ref="char:EOLhyphen"/>ter, and my ſelf to deal more freely with you then the world with me, and tell you ſome of my thoughts: for in this vacancy of action I have en<g ref="char:EOLhyphen"/>deavoured to turn Idleneſſe into Meditation. And firſt taking my ſelf ſomething concerned in affairs of the Church, I have ſpent (it may be caſt away) ſome time and thoughts in the conſideration of that unhappy and unneceſſary difference betwixt the pre<g ref="char:EOLhyphen"/>tenders to Reformation, I mean the more ſober part (for as I have forgotten the <hi>Biſhops,</hi> ſo I ſhall ſcarce trouble my ſelf with thoughts of the <hi>rigid Separa<g ref="char:EOLhyphen"/>teſts)</hi> ſome whereof are called <hi>Presbyterians,</hi> others <hi>Independents;</hi> betwixt whom I conceive the <hi>Diviſions</hi> ſtronger then the <hi>Diſtinctions.</hi> Firſt, let me diſclaim any intereſt in the Quarrell, and then give you my obſervation of it. I hope I may be allowed to a <hi>Sceptick</hi> in this point till our learned <hi>Antiquary</hi> hath declared himſelf concerning the neceſſity of any Go<g ref="char:EOLhyphen"/>vernment at all, Though ſome ſay, The bottom of the buſineſſe is, Not ſo much no Government; as no other then what hath been; And our judicious Senate made their Determinations upon the Diſputes of our reverend Synode; if theſe be Riddles, time will ex<g ref="char:EOLhyphen"/>pound them. But to the purpoſe (if it be poſſible) this <hi>Difference,</hi> or rather <hi>Defiance,</hi> for the imprudence of men hath almoſt ſtrained it ſo high, is doubtleſſe <hi>unſeaſonable,</hi> it may be <hi>unreaſonable.</hi> For the <hi>ſeaſon,</hi>
+               <pb n="3" facs="tcp:155962:3"/>
+we doubtleſſe have enemies now that chalenge our united ſtrength: For the <hi>reaſon,</hi> ſomething it's like there is, but if there be much, there is more then I diſcern. This may be obſerved in generall, That the feud is more bitter among the <hi>diſciples</hi> then the <hi>masters,</hi> and where there is leaſt <hi>light</hi> there is moſt <hi>heat;</hi> They agree beſt when neereſt, and a ſober Con<g ref="char:EOLhyphen"/>ference makes them almoſt friends: Were I for a Presbyterie, I could yeeld to be Independent till there ſhould fall in an evident neceſſity of <hi>Communion</hi> with neighbour Churches: Were I for Independen<g ref="char:EOLhyphen"/>cie, I ſhould rather diſpenſe with my Opinion than Trueth and Juſtice, when they chalenged a neceſſity of <hi>Communion.</hi> As for the other differences, there may be ſome miſtake; The <hi>Independent</hi> party com<g ref="char:EOLhyphen"/>pare their opinions with the practiſe of theſe Chur<g ref="char:EOLhyphen"/>ches corrupted, and not with the rules of Churches, as their ſuppoſed adverſaries would have them con<g ref="char:EOLhyphen"/>ſtituted: I hope they would both agree to thoſe rules which ſhould be moſt for the increaſing and eſtabliſh<g ref="char:EOLhyphen"/>ing the Church of Chriſt. For the preſent, as I ſee in this vacancy no <hi>Presbyterian</hi> Diſcipline exerciſed, ſo neither would I have <hi>Independentiary;</hi> if it be of abſolute neceſſity to make this Separation, let the world be evinced of it, and the grounds and rules be known, If not, let it for a time be diſpenſed with; Some think it would be as to this place and time, onely a diſpenſation with a fancie in the moſt, and the reputation of a taking opinion: For the reall advan<g ref="char:EOLhyphen"/>tages of gathering a ſcattered Church are (ſay they) hard to be underſtood, and the great pretended bene<g ref="char:EOLhyphen"/>fit of Covenants and Communion, in theſe diſtances
+<pb n="4" facs="tcp:155962:4"/>
+and confuſions, loſt. I have heard ſome look upon it as a great fault, that ſome men make that their great glory and rejoycing, which is the ſhame and ſorrow of the Church of Chriſt, That they are divided from others whom yet they acknowledge not to be divided from the Head; which ſome ſay is a Schiſme: And it may be worthy conſideration whether it can be a matter of glorying; I am of this or that Diviſion; when the Prayer of Chriſt was, That we might be one, as his Father and he were; and even the diſtin<g ref="char:EOLhyphen"/>ction of Aſſemblies, is but a fruit of naturall neceſ<g ref="char:EOLhyphen"/>ſity, not a part of Morall beauty. In brief, it is to be wiſhed, rather then hoped (yet, <hi>quid non ſperemus amantes)</hi> that theſe Differences and Diſtances were reconciled, but to be hoped as well as wiſhed, that they may be for the preſent conſopited; and doubt<g ref="char:EOLhyphen"/>leſſe they would, were it not for ſome <hi>Dreamers.</hi> They are but both yet upon the way (they hope) for their relief; Why ſhould not <hi>Joſephs</hi> counſell be ac<g ref="char:EOLhyphen"/>ceptable, if in this new world any old counſell were to be taken, <hi>See that ye fall not out by the way?</hi> I am ſure the world would laugh at me, if I ſhould be now in a hott quarrell with my brother whether he or I ſhould be governour of <hi>Hiſpaniola</hi> when we had got it from the <hi>Spaniard.</hi> Why may not the accompliſh<g ref="char:EOLhyphen"/>ments of theſe men be as far off? I adde no more then this ſolemn Obteſtation; For this Cauſe and Kingdoms ſake, for the Churches, for Chriſt his ſake, let us labour to keep <hi>the unity of the ſpirit in the bond of Peace.</hi> If we will not agree, we muſt be bea<g ref="char:EOLhyphen"/>ten together, and by a <hi>communion</hi> of <hi>affliction</hi> be help<g ref="char:EOLhyphen"/>ed on to <hi>union</hi> in <hi>affection;</hi> let us prevent the rod, and
+<pb n="5" facs="tcp:155962:4"/>
+faſhion our ſelves as dear children. But <hi>enough,</hi> I hope not <hi>too much</hi> of this, I muſt write, not accord<g ref="char:EOLhyphen"/>ing to the extent of the buſineſſe, but the limits of a Letter.</p>
+            <p>There is ſomething elſe hath challenged part of my thoughts, which I ſhall with equall free<g ref="char:EOLhyphen"/>dom impart; and that is the variety of new Do<g ref="char:EOLhyphen"/>ctrines, under the moſt glorious pretences of <hi>new light</hi> and <hi>free grace</hi> ſpread abroad; I will not ſtand to examine them, but truly the iſſue of my thoughts upon them hath been, juſt thankfulneſſe to my God, that I had received my Principles, I hope and be<g ref="char:EOLhyphen"/>leeve, a form of ſound Doctrine from a ſober and pious Miniſtery, which in mercy was afforded me, before this Libertiniſme of opinions, in which it is impoſſible for the heart to be eſtabliſhed. And here let not me be thought guilty of confining men to the bounds of former ignorance; I wiſh to all the Saints a growth in grace and the knowledge of our Saviour Jeſus Chriſt, which yet I think in funda<g ref="char:EOLhyphen"/>mentall points of Converſion and Salvation, muſt not be expected to be a laying new Principles, but a building upon the old, <hi>ſcil.</hi> Repentance from dead works, and Faith toward God, working by love unfained. If nothing but noveltie will ſuffice, this is a new and a living way, though Preached and practiſed of old. But I will paſſe no abſolute cen<g ref="char:EOLhyphen"/>ſure of theſe mens raptures, leſt I be thought to ſpeak evil of the things I know not, till I ſee the fruits of them, Leaves is the moſt that they have yet produced, and ſcarce enough to cover their own na<g ref="char:EOLhyphen"/>kedneſſe.</p>
+            <p>
+               <pb n="6" facs="tcp:155962:5"/>
+But it's like you expect ſomething concerning the preſent ſtate of the <hi>Common-wealth,</hi> if there be any ſuch thing; I muſt confeſſe I have been ſo preſump<g ref="char:EOLhyphen"/>tuous as to adventure ſome thoughts this way, and can reduce things to nothing but <hi>confuſion,</hi> in which <hi>confuſion</hi> there is yet a <hi>diſtinction,</hi> for it is threefold; a confuſion of <hi>ends,</hi> a confuſion of <hi>means,</hi> a confu<g ref="char:EOLhyphen"/>ſion of <hi>mindes.</hi> For ends, it may be eaſily diſcerned that on both parts there are different, on the <hi>Anti<g ref="char:EOLhyphen"/>parliamentary</hi> part, the conſpiracy is not a conſent, but as in the <hi>Epheſian</hi> confuſion, ſome cry one thing, ſome another, all, it may be, Great is <hi>Diana:</hi> On this ſide like wiſe there are doubtleſſe different aims in the ſame actions, and I obſerve every man hunting his brother with a net, and ſounding him with a plum<g ref="char:EOLhyphen"/>met to know his end, poſſibly to prevent his executi<g ref="char:EOLhyphen"/>on of it, but men are grown ſo miſchievouſly cunning that they do as ſtudiouſly conceal their deſignes as proſecute them. I can onely ſay that ſome of them are not ſo good and publike as they ought, thought it be ſtrange that men ſhould have ſo high an opinion of their perſons or places, as to think blood and rapine, and all the other miſeries of war, to be no more then a ſufficient price for their obtaining particular ends in this publike diſtraction. As for the reſt, I ſhall wait the diſcovery of time, and reſt ſatisfied in this, That the ſupream diſpoſer hath <hi>finem ſupra finem,</hi> ſome end or other for his own Glory, and the good of his Church and people, which he will accompliſh in the beſt ſeaſon, in the midſt of all the <hi>croſſe</hi> and <hi>underwork<g ref="char:EOLhyphen"/>ings</hi> of the ſons of men. But for their own ſakes, I could wiſh men were a little honerſter, though I hope
+<pb n="7" facs="tcp:155962:5"/>
+their miſchief ſhall not reach the publike. Some things, I confeſſe, I could, were is not for a reſolu<g ref="char:EOLhyphen"/>tion to the contrary, be angry at, That the <hi>iniquity,</hi> I ſpeak of the <hi>Cauſe</hi> (for as for <hi>perſons,</hi> there is <hi>ini<g ref="char:EOLhyphen"/>quity</hi> on both parts) ſhould lie on the one part, and yet the danger almoſt ſolely on the other. Were there no other world or Kingdom but this, I ſhould never do as I do, but preſently engage my ſelf on the Kings part, and expoſe my ſelf to the mercifull juſtice of the Parliament, eſpecially if I had relati<g ref="char:EOLhyphen"/>on to ſome Lord, where I might, although after actuall ſervice againſt them, either lie in honourably with the Earl of <hi>Lindſey,</hi> or have licenſe to walk abroad with another Lord, to ayr his tainted ho<g ref="char:EOLhyphen"/>nour; or with a third and fourth, be admitted to the Houſe again for further miſchief: it were not much matter to lie in the <hi>Gate houſe</hi> at <hi>Weſtminſter,</hi> and beg under the profeſſed notion of a <hi>Cavalier,</hi> which they there conſtantly do. Not that I <hi>envy</hi> any mans ſo acquired ſecurity, that which I enjoy of conſcience, is far more to be prized by all honeſt men. But there are ſome others whoſe felicity you think a ſober man may <hi>emulate,</hi> and that is thoſe who profeſſe themſelves yet on the Parliament part (I know not how this new expected diſcovery may ſhake their Copy) and yet can with the ſame affection hear of the ſucceſſe or loſſe of that which is yet called their Cauſe; theſe are ſure men of a gallant temper, and excellent wits, that make ſo good uſe of any thing; I wondred at it a while, but after found it to be this; Their end is any kinde of Compoſition, that they may have at leaſt their old enjoyments upon any
+<pb n="8" facs="tcp:155962:6"/>
+terms; it may be an acquiſition of ſome new advan<g ref="char:EOLhyphen"/>tages, if they can do good ſervice, and to this, good and ill ſucceſſe are equally conducible; the proſpe<g ref="char:EOLhyphen"/>rity of the <hi>Parliament Forces</hi> will make the King more pliable; the diſadvantage, will abate of the rigid humour of the <hi>Puritan faction,</hi> to them equally for<g ref="char:EOLhyphen"/>midable: Think you not that theſe men have learnt the Apoſtolicall Leſſon, <hi>In <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y condition to be content:</hi> Howſoever, I wiſh them the Apoſtolicall Benedi<g ref="char:EOLhyphen"/>ction, <hi>Grace</hi> and <hi>Peace.</hi>
+            </p>
+            <p>But you require my moſt ſerious thoughts con<g ref="char:EOLhyphen"/>cerning the iſſue of the preſent buſineſſe, What theſe things are like to come to: Let us be wiſe to ſobrie<g ref="char:EOLhyphen"/>ty; If we look to our aff<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs as in the hands of men, what can be expected but miſcarriage? And truely if we conſider them with relation to heaven, they may ſeem ſcarce to have a favourable aſpect from thence; in this regard, That we have not attained in any meaſure the firſt ſtep to a <hi>Reſtauration,</hi> which is, <hi>Reformation,</hi> according to that method in the Pro<g ref="char:EOLhyphen"/>phet; <hi>In the day that I ſhall have cleanſed them from their iniquities, I will build their waſte places, Ezek.</hi> 36. Not<g ref="char:EOLhyphen"/>withſtanding our <hi>new Doctrines,</hi> we retain <hi>our old ſins,</hi> and it may be have added ſome new: The profane<g ref="char:EOLhyphen"/>neſſe and contempt of Piety remains ſtill as deep, and the diviſions and diſtractions of the Church are rather encreaſed, which to me ſpeaks ſadly, and ſometimes make me think, That this froward and adulterous generation ſhall be ſpent in conflict (al<g ref="char:EOLhyphen"/>ways reſerved to the remnant of Gods waiting peo<g ref="char:EOLhyphen"/>ple the benefit of their particular promiſes) &amp; turn<g ref="char:EOLhyphen"/>ed back into the Wilderneſſe of confuſion, with un<g ref="char:EOLhyphen"/>thankfull
+<pb n="9" facs="tcp:155962:6"/>
+               <hi>Iſrael,</hi> to periſh there, and leave the enjoy<g ref="char:EOLhyphen"/>ment of their hopes to poſterity. The works that ſome think run <hi>paralell</hi> to ours, as that of <hi>Iſraels</hi> com<g ref="char:EOLhyphen"/>ing out of <hi>Egypt,</hi> and the building the <hi>ſecond Temple,</hi> after the Captivity, have endured ſtrong interrupti<g ref="char:EOLhyphen"/>ons, and of ſome continuance. But yet I doubt not but the iſſue will be good; which I am perſwaded to, by the obſervation of a <hi>ſtrong</hi> and <hi>fine thred</hi> of divine providence running thorow this Contexture of <hi>Knavery</hi> and <hi>Folly,</hi> which make up the <hi>Webb</hi> of this preſent world, which diſpoſes of things to correcti<g ref="char:EOLhyphen"/>on, rather then deſtruction: The puniſhment of our iniquity ſeems not yet accompliſhed; I ſpeak it not that we ſhould wilfully protract it in obedience to an uncertain gueſſe, but willingly and patiently ac<g ref="char:EOLhyphen"/>cept it, and labour that the iniquity of <hi>Iacob</hi> may thereby be purged, that the <hi>plaiſter</hi> may fall off when the <hi>ſore</hi> is healed: I confeſſe I have not arri<g ref="char:EOLhyphen"/>ved at that <hi>Seraphicall infallibility</hi> which ſome pro<g ref="char:EOLhyphen"/>feſſe themſelves to have attained in this point; I have a good <hi>hope,</hi> but my <hi>faith</hi> muſt not go beyond my <hi>promiſe</hi> for fear of <hi>preſumption.</hi>
+            </p>
+            <p>But ſomething of News you expect.</p>
+            <p>In generall, our condition, as it is not ſo good as our friends would have it, ſo neither ſo ill as our enemies report it: The particulars you muſt bear with me for; I have given you an account of my own idleneſſe, I ſhall ſhortly do it of others actions. The reſolution of ſlighting <hi>Reading</hi> is in action, and ſo far proceeded, as to conſent to to-morrow's march, as I believe. We ſuſtained ſome loſſe of 14 or 15 Dragoons, I think more, at <hi>Pangborn,</hi> four
+<pb n="10" facs="tcp:155962:7"/>
+miles from <hi>Reading,</hi> which I hope we turn into the gain of a warning, and be more vigilant. Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> we hear, is now at length upon his march for the Weſt, and our Auxiliari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of <hi>Bucking<g ref="char:EOLhyphen"/>ham-ſhire, Bedford-ſhire,</hi> and <hi>Hertford-ſhire,</hi> in good for<g ref="char:EOLhyphen"/>wardneſſe: The beſt is, if we be not in good condi<g ref="char:EOLhyphen"/>tion, our enemies, I think, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e in little better; ſo that we are like to be the fitter march.</p>
+            <p>Yeſterday we were very much gladded at the arri<g ref="char:EOLhyphen"/>vall of <hi>reſolved</hi> Captain <hi>Windgate,</hi> whom we recei<g ref="char:EOLhyphen"/>ved as it were from the <hi>dead;</hi> wonder not at the ex<g ref="char:EOLhyphen"/>preſſion, it is rather too modeſt then otherwiſe, for his condition in <hi>Oxford</hi> Caſtle was below the <hi>grave,</hi> as appears by the Petition of which he hath a Copy about him, <hi>That himſelf and ſome others, might rather be executed, then continue in their preſent condition:</hi> Its a mi<g ref="char:EOLhyphen"/>ſerable world when hanging is a courteſie. At firſt he acknowledges he was honourably intreated by the <hi>duo fulmina Belli,</hi> as the world takes them to be; and promiſed the Rights of a <hi>Cavalier;</hi> but they were quickly weary of weldoing, only at <hi>Edge-hill</hi> that monſter of iniquity, <hi>Smith,</hi> the Provoſt Mar<g ref="char:EOLhyphen"/>ſhall Generall, had ſuch a <hi>qualme,</hi> as to uſe him fair<g ref="char:EOLhyphen"/>ly, and confeſſed his ground, That he ſuſpected the <hi>ſcales</hi> were turning, and the Priſoner like to become Keeper. But ſince the embitterment of that dayes work, himſelf and fellows have endured with <hi>more then Chriſtian patience,</hi> more then <hi>Turkiſh cruelty;</hi> as cloſe Impriſonment in a noyſome place, without the benefit of converſe with the living or dead, men or books; which was a puniſhment for the higheſt form of Captains and Gentlemen: the reſt fed with
+<pb n="11" facs="tcp:155962:7"/>
+bread and water, which they were almoſt pined for want of, beaten, burned with Match, ſet in a place called <hi>Bridewell</hi> up to the ankles in their own excre<g ref="char:EOLhyphen"/>ments: which kinde of uſage hath taken away the lives of many of them, as of nine Captains, beſide other Officers, Country-men, and Souldiers. One ſtory of himſelf I cannot but relate for his honour, for it may be it will not ſtand with his modeſty; That when his enlargement was procured, upon condition of obliging himſelf to quit the Parlia<g ref="char:EOLhyphen"/>ment ſervice, he ſtoutly refuſed, in the midſt of all that miſery, to loſe any freedom of ſpirit, to gain the freedom of his body; and choſe rather to have his karcaſe in p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſon, then his courage. The ground of that tyrannicall cruelty they exerciſe, is their re<g ref="char:EOLhyphen"/>fuſing to take that moſt unconſcionable <hi>Proteſtation,</hi> which yet they diſclaim the preſſing of: Men that had not given defiance to Religion and Reaſon, would never ſo ſeverely urge ſo irrationall a thing; Firſt, I muſt be fully aſſured of His Majeſties pur<g ref="char:EOLhyphen"/>poſes and promiſes, <hi>The heart of man is deceitfull, and deſperately wicked, who can know it?</hi> And the Wiſe-man tells ſuch fools, That <hi>the Kings heart is unſearchable:</hi> if he give no other aſſurance of the integrity of his intentions for Religion and Liberty then what His actions of raiſing a Popiſh Army, trading with the Iriſh Rebells, and ſuch kinde of impriſonments; be not angry if an honeſt man cannot reſt fully aſ<g ref="char:EOLhyphen"/>ſured.</p>
+            <p>Then I muſt be perſwaded of the neceſſity and juſtice of the cauſe and means. I cannot force my own belief; It is a Scholaſticall Rule, <hi>Nemo credit,</hi>
+               <pb n="12" facs="tcp:155962:8"/>
+               <hi>quia vult credere,</hi> either my conſcience muſt be ſeared, or my fingers. I muſt profeſſe my ſelf not obliged by Vote or Ordinance of Parliament, though I have not ſo much Law as to know my ſelf diſobliged, and more conſcience then to free my ſelf where I fear Law hath bound me. And to colour the buſi<g ref="char:EOLhyphen"/>neſſe, I muſt profeſſe againſt obedience to any Or<g ref="char:EOLhyphen"/>der of the King contrary to the known Law. <hi>En quomodo mentita eſt iniquitas ſibi;</hi> in their own ſnare is their foot taken: For firſt, The adminiſtration of this Oath is from the King, or thoſe that repreſent, not onely without, but againſt <hi>Parliament,</hi> and <hi>known Law;</hi> which order they muſt yet obey, while they profeſſe and proteſt not to obey any; thus in the ſame breath is their faith broken and given: it was ſaid, That it was a thing onely expected, not exact<g ref="char:EOLhyphen"/>ed; but we are aſcertained of the moſt violent com<g ref="char:EOLhyphen"/>pulſions to this contradiction that could be; ſo that the world need lie no longer under the ignorance, and danger of ſuch raſh and horrid perjury.</p>
+            <p>Pardon this Digreſſion from the ſtory of the Ca<g ref="char:EOLhyphen"/>ptain, it is not altogether impertinent. His uſage continued very bad, till within this Month, when the barbarous dealing of this <hi>Monſter,</hi> I cannot call him <hi>man,</hi> became odious to the authors of it, or at leaſt was found diſadvantagious to their deſignes, when he treated him more fairly, leſt he ſhould give in too ſtrong evidence againſt him if queſtioned. He is now, through the good providence of God, eſcaped, and hath onely this miſery upon him, The thought of the miſeries of his friends and fellow<g ref="char:EOLhyphen"/>priſoners left there, which I hope, upon his account
+<pb n="13" facs="tcp:155962:8"/>
+given, that Court that is ſo mercifull to their ene<g ref="char:EOLhyphen"/>mies, will ſee relieved.</p>
+            <p>It is a ſad thing to think how ſlight a thing we make of this ſolemn appeal to heaven, for ſo War is, and manage it betwixt jeſt and earneſt as if our thoughts were really conformable to the expreſſions of him who call'd fighting playing, <hi>Let the young men ariſe and play before us.</hi> If the height of our <hi>enemies faults</hi> arrive not to the deſert of ſome ſeverity, let the <hi>depth</hi> of our <hi>friends miſeries</hi> call for ſo much as may help on their relief. The way of his eſcape, which was on Wedneſday laſt, while ſome were praying for his deliverance, I leave to himſelf to relate; it was in generall, with much danger and difficulty, and ſpeciall providence: As for the particulars, I hope ſome more able pen ſhall be intruſted with the whole ſtory, ſo farre as concerns the Publike, that the ſins of our enemies, yet all this while ſtrongly pretending to Religion and Liberty, may go before them to Judgement.</p>
+            <p>The noyſe and confuſion about the execution of <hi>Colonell Fielding,</hi> which was then pretended, though a Reprive granted, and the peoples paſſing to and fro, gave the advantage; which as he is, ſo let all his friends be thankfull for.</p>
+            <p>If I have not yet tyred you, I could tell you news from <hi>London,</hi> and thoughts of it. The demolition of the idols at <hi>Somerſet</hi> Houſe makes a great noyſe; but they ſay Maſter <hi>Martins</hi> zeal is like <hi>Jehu's,</hi> it de<g ref="char:EOLhyphen"/>ſtroyes the idolatry of <hi>Ahab,</hi> but leaves the Calves of <hi>Jeroboam</hi> ſtill, and is not proceeded to <hi>White-Hall</hi> and S. <hi>James,</hi> though doubtleſſe the images and ido<g ref="char:EOLhyphen"/>latry
+<pb n="15" facs="tcp:155962:9"/>
+there, is as contrary to the Laws of God and the Kingdom for the Marriage Contract, they ſay it was private, and ought not to riſe to the breach of a known Law. We hear that the Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een is im<g ref="char:EOLhyphen"/>peac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, as well as many more; And that there is a ſtrange damnable Plot upon the matter diſcovered; And that the Parliament and City have one more warning given them, before their throats be cut; I pray God they take it, and make not the moſt ſeri<g ref="char:EOLhyphen"/>ous intimations of providence to be in their uſe ridi<g ref="char:EOLhyphen"/>culous and vain: if this advantage be not taken to the utmoſt, I ſhall not ſhut them out from my <hi>pray<g ref="char:EOLhyphen"/>ers,</hi> but deny them much of my <hi>pity,</hi> if any evill be<g ref="char:EOLhyphen"/>fall them.</p>
+            <p>But I will not be too unmercifull, I mean to you, in tyrannizing upon your patience; but till the next opportunity, which I hope will be ſuddenly, reſt yours.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Quarter at Caveſham Lodge,</hi> 
+                  <date>June 5. 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
